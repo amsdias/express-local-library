@@ -62,9 +62,3 @@ app.use(function(err, req, res, next) {
 });
 
 module.exports = app;
-
-
-
-//mongodb://angelod:123@cabojodb-shard-00-00-naqf4.mongodb.net:27017,cabojodb-shard-00-01-naqf4.mongodb.net:27017,cabojodb-shard-00-02-naqf4.mongodb.net:27017/Library?ssl=true&replicaSet=cabojoDB-shard-0&authSource=admin
-
-//mongo "mongodb://cabojodb-shard-00-00-naqf4.mongodb.net:27017,cabojodb-shard-00-01-naqf4.mongodb.net:27017,cabojodb-shard-00-02-naqf4.mongodb.net:27017/test?replicaSet=cabojoDB-shard-0" --authenticationDatabase admin --ssl --username angelod --password 123
