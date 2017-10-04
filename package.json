@@ -2,7 +2,7 @@
   "name": "express-local-library",
   "version": "1.0.0",
   "engines": {
-    "node": "6.9.1"
+    "node": "8.2.1"
   },
   "private": true,
   "scripts": {
